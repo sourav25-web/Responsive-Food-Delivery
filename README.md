@@ -28,7 +28,7 @@ This project was built to demonstrate responsive web design principles and creat
 ## Installation Guide
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/tastehaven.git
+   git clone https://github.com/sourav25-web/responsive-food-delivery.git
    ```
 2. No additional installation is required as this is a frontend-only project.
 3. Open the `index.html` file in your browser to view the website.
@@ -42,7 +42,4 @@ This project was built to demonstrate responsive web design principles and creat
 6. On mobile devices, access the menu by clicking the hamburger icon.
 
 ## Contributors
-- Your Name
-
-## License
-MIT License 
+- Sourav Swain
